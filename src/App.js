@@ -12,12 +12,7 @@ import Purple from './Component/Purple';
 import Teal from './Component/Teal';
 import Violet from './Component/Violet';
 import Yellow from './Component/Yellow';
-
-
-
-
-
-function App() {
+const App = () =>{
   return (
     <div>
       <Blue />

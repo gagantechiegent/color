@@ -1,9 +1,7 @@
 
 import React from 'react';
 import styles from './styles.module.css'; 
-
-
-function Red() {
+const Red = () =>{
     return (
         <div className={styles.colorSection}>
             <h1 className={styles.colorName}>Red</h1>

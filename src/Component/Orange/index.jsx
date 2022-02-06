@@ -1,9 +1,7 @@
 
 import React from 'react';
 import styles from './styles.module.css'; 
-
-
-function Orange() {
+const Orange = () =>{
     return (
         <div className={styles.colorSection}>
             <h1 className={styles.colorName}>Orange</h1>
